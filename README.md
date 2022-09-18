@@ -3,7 +3,7 @@
 <h3 align="">A passionate Java developer from India</h3>
 🔭 I’m currently Studying Full Stack Development from Acciojob<br>
 🌱 I’m currently learning Data Structure & Algorithm, SQL
-
+<!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Java+developer+from+India;Open+to+Work)](https://git.io/typing-svg) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panchal__rajan)
