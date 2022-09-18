@@ -1,29 +1,39 @@
 [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://github.com/panchalrajan)
-<h1 align="center">Hi 👋, I'm Rajan Panchal</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h1 align="">Hi 👋, I'm Rajan Panchal</h1>
+<h3 align="">A passionate Java developer from India</h3>
+🔭 I’m currently Studying Full Stack Development from Acciojob<br>
+🌱 I’m currently learning Data Structure & Algorithm, SQL
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panchalrajan&label=Profile%20views&color=0e75b6&style=flat" alt="panchalrajan" /> </p>
 
-- 🔭 I’m currently Studying **Full Stack Development from Acciojob**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panchal__rajan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panchalrajan)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/blackhatsanta) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/blackhatsanta) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866.svg?logo=HackerRank&logoColor=white)](https://hackerrank.com/blackhatsanta) 
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/blackhatsanta)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?&logo=CodeChef&logoColor=white)](https://codechef.com/blackhatsanta) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/blackhatsanta)
+<!---[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/blackhatsanta#0121) -->
 
-- 🌱 I’m currently learning **Data Structure & Algorithm, SQL**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=panchalrajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=panchalrajan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalrajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **panchal.rajan2k19@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/panchalrajan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="panchalrajan" height="40" width="40" /></a>
-<a href="https://www.instagram.com/panchal__rajan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="panchal__rajan" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/blackhatsanta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="blackhatsanta" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/blackhatsanta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blackhatsanta" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/blackhatsanta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="blackhatsanta" height="40" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panchalrajan&show_icons=true&locale=en&layout=compact" alt="panchalrajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panchalrajan&show_icons=true&locale=en" alt="panchalrajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchalrajan&" alt="panchalrajan" /></p>
+<!---
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+ -->
+---
+[![](https://visitcount.itsvg.in/api?id=panchalrajan&icon=0&color=1)](https://visitcount.itsvg.in)
