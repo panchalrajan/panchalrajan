@@ -1,8 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://github.com/panchalrajan)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHtk6bDXY5TCg/profile-displaybackgroundimage-shrink_350_1400/0/1683011577730?e=1692835200&v=beta&t=WmHcsCkNVqvxVG_sTHLHb6aW72HLh-QE9LvpA9CtTVM)](https://github.com/panchalrajan)
 <h1 align="">Hi 👋, I'm Rajan Panchal</h1>
-<h3 align="">A passionate Java developer from India</h3>
-🔭 I’m currently Studying Full Stack Development from Acciojob<br>
-🌱 I’m currently learning Data Structure & Algorithm, SQL
+<h3 align="">A passionate Software Developer from India</h3>
+🔭 I’m currently Working as an iOS Developer at Raja Software Labs<br>
+🌱 I completed my Full Stack Developer Course from Acciojob<br>
 <!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Java+developer+from+India;Open+to+Work)](https://git.io/typing-svg) -->
 
 ## 🌐 Socials:
